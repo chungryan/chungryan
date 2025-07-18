@@ -16,7 +16,7 @@ With 10+ years of experience leading high-performing engineering teams, I'm pass
 
 ---
 
-### 💼 Recent Highlights as of 2025
+### 💼 Recent Highlights
 - 👥 Scaled engineering team from 2 to 10 while maintaining 100% retention
 - 🧭 Aligned engineering output with company strategy through C-suite collaboration
 - ⚙️ Delivered end-to-end architecture powering multiple third-party integrations
@@ -27,3 +27,7 @@ With 10+ years of experience leading high-performing engineering teams, I'm pass
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/chungryan/)
+
+---
+
+v2025-06
