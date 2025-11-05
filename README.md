@@ -11,7 +11,7 @@ With 10+ years of experience leading high-performing engineering teams, I'm pass
 - **Frameworks**: Symfony, React, Node.js
 - **Cloud & DevOps**: AWS (EC2, Lambda, RDS), Terraform, Docker, CI/CD
 - **Architecture**: Event-driven systems, microservices, distributed systems
-- **Data & AI**: Postgres, Redis, OpenAI APIs
+- **Data & AI**: MySQL, Postgres, Redshift, Redis, OpenAI, Gemini
 - **Leadership**: Team scaling, mentoring, agile delivery, product strategy
 
 ---
